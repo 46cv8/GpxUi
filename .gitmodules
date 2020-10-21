@@ -1,6 +1,7 @@
 [submodule "GPX"]
 	path = GPX
-	url = https://github.com/markwal/GPX
+	url = https://github.com/46cv8/GPX
+	branch = variable_fan_speed
 [submodule "inih"]
 	path = inih
 	url = https://github.com/markwal/inih
